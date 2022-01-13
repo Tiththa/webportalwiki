@@ -117,5 +117,9 @@ When you have an extensive linup for your Saturday Scouting programme, you can a
 
 Opening rally and the Closing rally are a must even in a special programme
 
+### Tea
 
+Making Tea in Scouting programmes has been a troop tradition. Scout must know to make tea and estimate the goods required. The duty patrol supposed to prepare tea while the Senior Scouts guide them in the correct path. Let the duty patrol make milk tea (1L ambewela milk packet) and serve. Offer biscuits with tea.&#x20;
+
+This is the best time to celebrate a Scout's birthday
 
