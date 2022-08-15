@@ -6,3 +6,7 @@
 
 * [Making the Saturday Scouting Programme](saturday-scouting-programme/making-the-saturday-scouting-programme.md)
 * [Template](saturday-scouting-programme/template.md)
+
+## Traditions & Methodologies
+
+* [Funeral Service](traditions-and-methodologies/funeral-service.md)
