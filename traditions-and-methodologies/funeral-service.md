@@ -15,3 +15,11 @@ It should be 2 or 4 responsible senior scouts to place the Prep school flag on t
 {% hint style="info" %}
 Please note you **DO NOT** fold the scout flag the way it is done in the video, and **NO NEED** for all these theatrics- you are not putting on a military display. Just do a simple fold of the flag so only one person is left holding it, turn again to face the coffin for a moment, and then break off and walk away smartly
 {% endhint %}
+
+### Opening
+
+{% embed url="https://youtu.be/LjsFyqvWuN4" %}
+
+### Service Ending
+
+{% embed url="https://youtu.be/w_pmBjQBu4I" %}
