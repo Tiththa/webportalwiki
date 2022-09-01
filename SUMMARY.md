@@ -4,6 +4,7 @@
 
 ## Saturday Scouting Programme
 
+* [Major Changes](saturday-scouting-programme/major-changes.md)
 * [Making the Saturday Scouting Programme](saturday-scouting-programme/making-the-saturday-scouting-programme.md)
 * [Template](saturday-scouting-programme/template.md)
 
