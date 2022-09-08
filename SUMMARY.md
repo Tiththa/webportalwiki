@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
-
 ## Saturday Scouting Programme
 
-* [Major Changes](saturday-scouting-programme/major-changes.md)
+* [Major Changes](README.md)
 * [Making the Saturday Scouting Programme](saturday-scouting-programme/making-the-saturday-scouting-programme.md)
 * [Template](saturday-scouting-programme/template.md)
 
@@ -16,3 +14,6 @@
 
 * [Introduction](2022-changes-to-scout-methods/introduction.md)
 * [Saturday Programme](2022-changes-to-scout-methods/saturday-programme.md)
+* [Reporting](2022-changes-to-scout-methods/reporting.md)
+* [Formations](2022-changes-to-scout-methods/formations.md)
+* [Inspection](2022-changes-to-scout-methods/inspection.md)

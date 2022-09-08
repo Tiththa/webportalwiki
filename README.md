@@ -1,25 +1,18 @@
-# Initial page
-
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
+# Major Changes
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+Approved syllabus modifications are published after a Phase IV advanced course.  Year 2022 has major changes, evolutions over Scout methods, programme makings.
 {% endhint %}
 
-Once you're strong enough, save the world: 
+## Changes
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+* Programme structure
+* Opening Rally
+* Closing Rally
+* Investiture Ceremony
+* Formation
+
+### Programme Structure
 
 
 
