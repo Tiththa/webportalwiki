@@ -11,3 +11,8 @@
 ## Traditions & Methodologies
 
 * [Funeral Service](traditions-and-methodologies/funeral-service.md)
+
+## 2022 Changes to Scout Methods
+
+* [Introduction](2022-changes-to-scout-methods/introduction.md)
+* [Saturday Programme](2022-changes-to-scout-methods/saturday-programme.md)
