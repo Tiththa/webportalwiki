@@ -17,3 +17,4 @@
 * [Reporting](2022-changes-to-scout-methods/reporting.md)
 * [Formations](2022-changes-to-scout-methods/formations.md)
 * [Inspection](2022-changes-to-scout-methods/inspection.md)
+* [At Camps](2022-changes-to-scout-methods/at-camps.md)
