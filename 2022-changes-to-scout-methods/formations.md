@@ -33,3 +33,7 @@ In a circle formation the Duty Patrol must be infront of the DSL after forming t
 Horse shoe formation **no longer needs** to be in "**Arms between members and double arms between Patrols**", therefore the patrols **need to leave an arm distance between patrols and the patrol members feet should slightly touch others toes; means only elbow distance is maintained**. This ensures everyone in the formation to be involved and everyone could hear what the conductor/DSL says.
 
 Horse shoe formation starting point (Duty Patrol) and Ending point (Next Duty Patrol) do not need to be in a straight line and the shape of a horse show should be maintained; means an arc should be maintained.
+
+## Box Formation
+
+The corners must not be overalapped and the sides are required to make space for the line infront of the DSL.
