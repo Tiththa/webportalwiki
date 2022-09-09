@@ -12,7 +12,9 @@ Approved syllabus modifications are published after a Phase IV advanced course. 
 * Investiture Ceremony
 * Formation
 
-### Programme Structure
+Please visit the following link for changes
 
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
