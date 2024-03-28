@@ -6,23 +6,21 @@ description: Updated as of 8/5/2023
 
 **Zone 07 - ADC & Development**
 
-> Mr. L. Z. T. Sooriyabandara
+> Mr. Irshad Razak
 >
-> 413/A2, Weboda North,&#x20;
+> 67/29, Quaraishani Moulana Lane,
 >
-> Weboda
+> Dematagoda,&#x20;
 >
-> Mobile: 076 159 1225
+> Colombo 09
 >
-> Whatsapp: 076 6872 225
+> Mobile: 077 921 1880
 >
-> Email: zuranga\_1@yahoo.fr
+> Email: irshadrazak@gmail.com
 
-**DSL - Mr. Aahemed Shaffy**
+**DSL - Mr. Lahiru Sachindra Perera**
 
-> Mobile: 077 283 9777
-
-
+> Mobile: 077 209 8369
 
 <details>
 
